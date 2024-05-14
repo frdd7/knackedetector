@@ -4,3 +4,5 @@ Deprived of calories from all that carving and baking, your brain glosses over t
 
 So, this is an Arduino sketch to sense the bread level using a SR04 ultrasonic distance sensor and display it using NeoPixels.
 
+<img src="full.jpg" width="400">
+<img src="empty.jpg" width="400">
